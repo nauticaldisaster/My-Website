@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616451480290.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1646701868",
+    "id" : "8F100483",
+    "lastKnownWriteTime" : 1616451436,
+    "last_content_update" : 1616451436,
+    "path" : "D:/New Website/My-Website/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

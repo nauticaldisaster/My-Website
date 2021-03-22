@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-22T17:26:48-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Nautical Disaster",
+      "description": "Welcome to the website. I hope you enjoy it!",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-22T17:27:00-05:00"
+    }
+  ],
+  "collections": []
+}
